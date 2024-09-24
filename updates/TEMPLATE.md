@@ -5,8 +5,8 @@ Dateiname: Datum - Versionsnummer - Build
 ## Übersicht
 
 **Datum:** [Datum]  
-**Version:** [Versionsnummer]
-**Build:** [#BUILD]
+**Version:** [Versionsnummer]  
+**Build:** [#BUILD]  
 **Typ:** [Patch/Feature-Update/Bugfix/Balance-Änderungen/etc.]
 
 ### Zusammenfassung
