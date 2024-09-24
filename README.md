@@ -6,7 +6,7 @@ Dieses Repository dient der Übersicht über alle Updates, Änderungen und Verbe
 
 ## Inhalt
 
-- **[Update-Übersicht:]((https://github.com/CptGummiball/Ullrichcraft/tree/main/updates))** Hier findest du eine chronologische Auflistung der Updates und Patches für den Server, inklusive Beschreibungen und Versionshinweisen.
+- **[Update-Übersicht:](https://github.com/CptGummiball/Ullrichcraft/tree/main/updates)** Hier findest du eine chronologische Auflistung der Updates und Patches für den Server, inklusive Beschreibungen und Versionshinweisen.
 - **[Wiki:](https://github.com/CptGummiball/Ullrichcraft/wiki)** Die zentrale Informationsquelle für alles rund um den Ullrichcraft Server – von Spielmechaniken über Regeln bis hin zu Anleitungen.
 
 ## Wie man das Repository nutzt
