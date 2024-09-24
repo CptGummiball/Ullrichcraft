@@ -6,12 +6,12 @@ Dieses Repository dient der Übersicht über alle Updates, Änderungen und Verbe
 
 ## Inhalt
 
-- **[Update-Übersicht:](CHANGELOG.md)** Hier findest du eine chronologische Auflistung der Updates und Patches für den Server, inklusive Beschreibungen und Versionshinweisen.
+- **[Update-Übersicht:]([CHANGELOG.md](https://github.com/CptGummiball/Ullrichcraft/tree/main/updates))** Hier findest du eine chronologische Auflistung der Updates und Patches für den Server, inklusive Beschreibungen und Versionshinweisen.
 - **[Wiki:](https://github.com/CptGummiball/Ullrichcraft/wiki)** Die zentrale Informationsquelle für alles rund um den Ullrichcraft Server – von Spielmechaniken über Regeln bis hin zu Anleitungen.
 
 ## Wie man das Repository nutzt
 
-1. **Updates nachverfolgen:** Alle Updates und Patchnotes sind einzelnt im Verzeichnis `updates/` und als Zusammenfassung im Hauptverzeichnis zu finden. Jede Version wird mit Datum, Versionsnummer und detaillierten Änderungen dokumentiert.
+1. **Updates nachverfolgen:** Alle Updates und Patchnotes sind im Verzeichnis `updates/` zu finden. Jede Version wird mit Datum, Versionsnummer und detaillierten Änderungen dokumentiert.
 2. **Wiki durchstöbern:** Die Wiki-Inhalte befinden sich im Verzeichnis `wiki/`. Dort kannst du alle relevanten Informationen zum Server finden.
 
 ## Mitwirken
