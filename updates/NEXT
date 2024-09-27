@@ -22,6 +22,12 @@ Kurze Beschreibung des Updates, z.B.:
   - *Mobs haben nun Level und sind unterschiedlich stark. Mobs mit höherem Level haben auch bessere Drops. Unser Quest Plugin hat außerdem eine direkte Hook in das neue Feature*
 - Interactive Chat
   - *Über Kürzel können nun Daten in den Chat geteilt werden wie zum Beispiel Items, Inventare, Geld und vieles mehr*
+  - [item] in den Chat um das Item in der Haupthand für andere im Chat anzuzeigen
+  - [inv] in den Chat um das Inventar für andere im Chat anzuzeigen
+  - [end] in den Chat um die Endertruhe für andere im Chat anzuzeigen
+  - [pos] in den Chat um deine Position für andere im Chat anzuzeigen
+  - [bal] in den Chat um dein Geld für andere im Chat anzuzeigen
+  - Wenn jemand im Chat erwähnt wird, wird derjenige benachrichtigt über einen Sound und eine Titelnachricht
 
 ### Bugfixes
 - Behebung des Villager Shop Fehlers
