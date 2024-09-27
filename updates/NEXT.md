@@ -18,10 +18,10 @@ Kurze Beschreibung des Updates, z.B.:
 ## Änderungen
 
 ### Neue Features
-- Leveled Mobs + Addons
-  - *Mobs haben nun Level und sind unterschiedlich stark. Mobs mit höherem Level haben auch bessere Drops. Unser Quest Plugin hat außerdem eine direkte Hook in das neue Feature*
+- Mob Drops
+  - Mobs Droppen nun auch Geld, dies ist aber begrenzt auf maximal 10 Drops pro Minute und pro Spieler, Spieler können nur das Geld aufheben bei dem sie selbst den Mob erledigt haben. Die höhe ser Summe und die Chance unterscheiden sich bei den verschiedenen Mobs
 - Interactive Chat
-  - *Über Kürzel können nun Daten in den Chat geteilt werden wie zum Beispiel Items, Inventare, Geld und vieles mehr*
+  - Über Kürzel können nun Daten in den Chat geteilt werden wie zum Beispiel Items, Inventare, Geld und vieles mehr
   - [item] in den Chat um das Item in der Haupthand für andere im Chat anzuzeigen
   - [inv] in den Chat um das Inventar für andere im Chat anzuzeigen
   - [end] in den Chat um die Endertruhe für andere im Chat anzuzeigen
