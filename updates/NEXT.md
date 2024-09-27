@@ -20,6 +20,7 @@ Kurze Beschreibung des Updates, z.B.:
 ### Neue Features
 - Mob Drops
   - Mobs Droppen nun auch Geld, dies ist aber begrenzt auf maximal 10 Drops pro Minute und pro Spieler, Spieler können nur das Geld aufheben bei dem sie selbst den Mob erledigt haben. Die höhe ser Summe und die Chance unterscheiden sich bei den verschiedenen Mobs
+  - Alle 2 Stunden startet ein Event bei dem Mobs 200% mehr Geld droppen
 - Interactive Chat
   - Über Kürzel können nun Daten in den Chat geteilt werden wie zum Beispiel Items, Inventare, Geld und vieles mehr
   - [item] in den Chat um das Item in der Haupthand für andere im Chat anzuzeigen
