@@ -33,9 +33,8 @@ Kurze Beschreibung des Updates, z.B.:
 - Behebung des Villager Shop Fehlers
 - Mobs despawnen nicht mehr einfach so
 
-### Balance-Änderungen
-- [Änderung 1]: Änderungen an bestehenden Mechaniken (z.B. Stärke eines Items oder einer Fähigkeit angepasst).
-- [Änderung 2]: Weitere Balance-Änderungen auflisten.
+### Änderungen
+- Bei Lands (Claims) wurde nun die RENT option aktiviert. Das bedeutet, dass spieler nun SUB Areas zum Vermieten erstellen können.
 
 ### Entfernete Funktionen
 - Marshmallows
