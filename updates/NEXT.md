@@ -4,7 +4,7 @@ Dateiname: Datum - Versionsnummer - Build
 
 ## Übersicht
 
-**Datum:** [Datum]  
+**Datum:** [03-10-2024]  
 **Version:** [1.21.1]  
 **Build:** [#1]  
 **Typ:** [Patch/Fix/Features]
@@ -18,10 +18,10 @@ Kurze Beschreibung des Updates, z.B.:
 ## Änderungen
 
 ### Neue Features
-- Mob Drops
+- **Mob Drops:**
   - Mobs Droppen nun auch Geld, dies ist aber begrenzt auf maximal 10 Drops pro Minute und pro Spieler, Spieler können nur das Geld aufheben bei dem sie selbst den Mob erledigt haben. Die höhe ser Summe und die Chance unterscheiden sich bei den verschiedenen Mobs
   - Alle 2 Stunden startet ein Event bei dem Mobs 200% mehr Geld droppen
-- Interactive Chat
+- **Interactive Chat** (Bereits vorher integriert aber nun gefixed)**:**
   - Über Kürzel können nun Daten in den Chat geteilt werden wie zum Beispiel Items, Inventare, Geld und vieles mehr
   - [item] in den Chat um das Item in der Haupthand für andere im Chat anzuzeigen
   - [inv] in den Chat um das Inventar für andere im Chat anzuzeigen
@@ -29,7 +29,6 @@ Kurze Beschreibung des Updates, z.B.:
   - [pos] in den Chat um deine Position für andere im Chat anzuzeigen
   - [bal] in den Chat um dein Geld für andere im Chat anzuzeigen
   - Wenn jemand im Chat erwähnt wird, wird derjenige benachrichtigt über einen Sound und eine Titelnachricht
-
 ### Bugfixes
 - Behebung des Villager Shop Fehlers
 - Mobs despawnen nicht mehr einfach so
